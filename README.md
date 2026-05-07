@@ -153,12 +153,12 @@ jupyter notebook ANN_Regression.ipynb
 - Used **StandardScaler** correctly — fit only on training data to prevent data leakage
 - Evaluated performance using both **MSE** and **R² score** for comprehensive regression analysis
 
----
 
-## 📬 Contact
 
-Made by **[Your Name]** — feel free to connect on [LinkedIn](https://linkedin.com/in/yourprofile) or reach out via GitHub Issues.
+ Contact
 
----
+Made by MEHRU NISA — feel free TO reach out via GitHub Issues.
 
-*⭐ Star this repo if you found it helpful!*
+
+
+⭐ Star this repo if you found it helpful!
